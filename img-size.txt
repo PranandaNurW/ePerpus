@@ -1,0 +1,12 @@
+banner : 1920*960
+
+original picture : 429*762
+original items : 640*869 
+(dari titik; top:50px, bot:800px, left :130px, right:550px
+
+- top-sale : 213*289
+- product detail :440*597
+- shop list img : 235*319
+
+top : 1.3229166667
+bot : 1.7197916667

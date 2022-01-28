@@ -1,0 +1,47 @@
+    #anggota-home .owl-carousel .item .product a {
+    overflow: hidden;
+  }
+  #anggota-home .owl-carousel .item .product img {
+    transition: transform 0.5s ease;
+  }
+  #anggota-home .owl-carousel .item .product img:hover {
+    transform: scale(0.9);
+  }
+  #anggota-home .owl-carousel .owl-nav button {
+    position: absolute;
+    top: 30%;
+    outline: none;
+  }
+  #anggota-home .owl-carousel .owl-nav button.owl-prev span,
+  #anggota-home .owl-carousel .owl-nav button.owl-next span {
+    font-size: 35px;
+    color: #003859;
+    padding: 1 1rem;
+  }
+  #anggota-home .owl-carousel .owl-nav button.owl-prev {
+    left: 0;
+  }
+  #anggota-home .owl-carousel .owl-nav button.owl-prev span {
+    margin-left: -2rem;
+  }
+  #anggota-home .owl-carousel .owl-nav button.owl-next {
+    right: 0;
+  }
+  #anggota-home .owl-carousel .owl-nav button.owl-next span {
+    margin-right: -2rem;
+  }
+
+#daftar-buku .coba .kotak .list-buku .card {
+  transition: box-shadow 0.3s;
+}
+#daftar-buku .coba .kotak .list-buku .card:hover {
+  box-shadow: 0px 0px 28px 5px rgba(54,185,204,0.36);
+}
+
+#content1 .td .bl{
+  border: none;
+  background: none;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+}
